@@ -2,6 +2,7 @@ weixin-of-npo
 =============
 
 以IT自己的方式做公益 —— 公益组织的微信平台， 免费、快捷为公益组织开设微信网站;
+
 基于Thinkphp, OneThink 和 WeiPHP 开发；
 
 功能：
